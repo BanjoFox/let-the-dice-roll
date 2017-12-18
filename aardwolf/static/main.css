@@ -56,6 +56,7 @@ nav {
 	padding: .25em 1em;
 	color: #f0ebe2;
 	background-color: #3f1906;
+	border-bottom: 5px solid #008b82;
 }
 nav h3, nav h3 a {
 	display: inline;
@@ -76,4 +77,8 @@ nav a {
 
 .main {
 	margin: 1em 20%;
+}
+
+.footer {
+	margin-top 4em;
 }
