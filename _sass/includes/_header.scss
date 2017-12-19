@@ -1,6 +1,7 @@
 /*
 	_header.scss
 */
+
 #logotype {
 	margin: 2em auto;
 	background-image: url("https://i.imgur.com/L56o4tU.png");
@@ -47,9 +48,35 @@ nav h3 a, nav a, nav a:link, nav a:hover, nav a:visited, nav a:active {
 	font-size: 20px;
 	margin: 0 2em 0 0 ;
 	padding: 0;
+} 
+
+nav {
+	ul {
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	  line-height: 1.5;
+	  float: right;
+	  text-align: right;
+	}
+	li {
+	  display: inline;
+	  float: left;
+	  margin-right: 0.4em;
+	}
+	@media (max-width: 1100px) {
+	  ul {
+		display: inline-block;
+		float: left;
+		padding-top: $padding-small;
+		text-align: left;
+		width: 100%;
+	  } 
+	}
+	ul li a {
+	  text-decoration: none;
+	  font-weight: 200;
+	  font-size: 18px;
+	}
 }
-nav a {
-	text-decoration: none;
-	font-weight: 200;
-	font-size: 18px;
-}
+
