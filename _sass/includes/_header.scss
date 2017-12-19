@@ -31,18 +31,6 @@
 }
 
 
-nav {
-	width: 100%;
-	padding: .25em 1em;
-	color: #f0ebe2;
-	background-color: #3f1906;
-	border-bottom: 5px solid #008b82;
-}
-nav h3, nav h3 a {
-	display: inline;
-	font-weight: 700;
-	font-weight: 700;
-}
 nav h3 a, nav a, nav a:link, nav a:hover, nav a:visited, nav a:active {
 	color: #f0ebe2;
 	font-size: 20px;
@@ -51,18 +39,21 @@ nav h3 a, nav a, nav a:link, nav a:hover, nav a:visited, nav a:active {
 } 
 
 nav {
+	width: 100%;
+	padding: .25em 1em;
+	color: $background-color;
+	background-color: $dark-color;
+	border-bottom: 5px solid $secondary-color;
+
 	ul {
 	  margin: 0;
 	  padding: 0;
 	  list-style: none;
 	  line-height: 1.5;
-	  float: right;
-	  text-align: right;
 	}
 	li {
 	  display: inline;
-	  float: left;
-	  margin-right: 0.4em;
+	  margin-right: 1.5em;
 	}
 	@media (max-width: 1100px) {
 	  ul {
