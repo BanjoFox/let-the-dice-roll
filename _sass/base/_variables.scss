@@ -9,15 +9,15 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$dark-color: #8b3307;
-$secondary-color: #3f1906;
+$dark-color: #3f1906;
+$secondary-color: #008b82;
 $background-color: #f0ebe2;
 $border-color: #333333;
 
 // Typography colours
 $text-color: #222222;
 $link-color: #8b3307;
-$link-visited-color: #008b82;
+$link-visited-color: $secondary-color;
 $link-active-color: #063f3b;
 
 $selection-color: #D4D4D4; // visible when highlighting text
