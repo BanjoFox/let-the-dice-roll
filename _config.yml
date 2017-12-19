@@ -1,7 +1,5 @@
 # JEKYLL
 encoding: utf-8
-exclude:
-  - "signal-log"
 gems:
   - jekyll-paginate
   - jekyll-auto-image
@@ -17,7 +15,7 @@ url: "https://aardwolf.social" # the base hostname & protocol for your site
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /feed.xml
+subscribe_rss: /news/feed.xml
 
 # THEME-SPECIFIC CONFIGURATION
 theme_data:
@@ -48,11 +46,11 @@ theme_data:
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PERMALINK
-permalink: /:year/:month/:day/:title.html
+permalink: /news/:year/:month/:day/:title.html
 
 # PAGINATION
 paginate: 10
-paginate_path: "blog/page:num"
+paginate_path: "/news/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
