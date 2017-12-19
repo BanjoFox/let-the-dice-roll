@@ -6,7 +6,7 @@ layout: default
   <header
     <h1 style="{% if page.header-text-color %} color: {{ page.header-text-color }}{% endif %}" class="title">{{ page.title }}</h1>
     <!-- {{ page.header-text-color }} -->
-    <p {% if page.header-text-color %}style="color: {{ page.header-text-color }}" {% endif %}class="meta">
+    <p class="meta">
     Published {{ page.date | date: "%B %-d, %Y" }}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
