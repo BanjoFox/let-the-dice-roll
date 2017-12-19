@@ -4,8 +4,10 @@ layout: default
 
 <div class="home">
 
-  {% include homr_content.html %}
+  {% include home_content.html %}
 
+  <h2 id="news">Project News</h2>
+  
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
@@ -17,12 +19,6 @@ layout: default
       <div class="post-content">
         {% include post_content.html %}
       </div>
-      {% else %}
-      <div class="excerpt">
-        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        <a class="button continue-reading" href="{{ post.url | prepend: site.url }}">{{ site.theme_data.str_continue_reading }}</a>
-      </div>
-      {% endif %}
     </div>
     {% endfor %}
   </div>
