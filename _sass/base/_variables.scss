@@ -1,5 +1,5 @@
 // Typography
-$font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-family: Helvetica, Arial, sans-serif;
 $font-size: 1.25em;
 $header-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;;
 
@@ -13,10 +13,12 @@ $dark-color: #8b3307;
 $secondary-color: #3f1906;
 $background-color: #f0ebe2;
 
-$link-color: #008b82;
 // Typography colours
 $text-color: #222222;
-// $link-color: #E9994A;
+$link-color: #8b3307;
+$link-visited-color: #008b82;
+$link-active-color: #063f3b;
+
 $selection-color: #D4D4D4; // visible when highlighting text
 
 // Header colours
