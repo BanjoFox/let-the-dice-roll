@@ -7,9 +7,13 @@
 		<li>
 			<a class="page-link" href="{{ site.baseurl }}/#news">Project News</a>
 		</li>
-		<li>
-			<a class="page-link" href="{{ site.baseurl }}/archives">Aardchives</a>
-		</li>
+		{% for page in site.pages %}
+			{% if page.title and page.hide != true %}
+			<li>
+				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}.html">{{ page.title }}</a>
+			</li>
+			{% endif %}
+		{% endfor %}
 		{% include icons.html %}
 		</ul>
 	</nav>
