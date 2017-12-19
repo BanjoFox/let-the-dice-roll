@@ -14,9 +14,16 @@ a:hover, a:active { color: $link-active-color; text-decoration: underline;}
 
 h2, h3 {
 	color: $dark-color;
-	font-size: 120%;
 	font-family: $header-font-family;
 	font-weight: 600; 
+}
+
+h2 {
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 120%;
 }
 
 
