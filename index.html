@@ -4,8 +4,10 @@ layout: default
 
 <div class="home">
 
-  {% include homr_content.html %}
+  {% include home_content.html %}
 
+  <h2 id="news">Project News</h2>
+  
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
