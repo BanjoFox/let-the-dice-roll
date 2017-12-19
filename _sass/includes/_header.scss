@@ -56,11 +56,16 @@ nav {
 		width: 100%;
 	  } 
 	}
-	ul li a {
-	  text-decoration: none;
-	  font-weight: 200;
-	  font-size: 18px;
-   	  color: $background-color;
+	ul li {
+		a:link,
+		a:hover,
+		a:active,
+		a:visited,	{
+			text-decoration: none;
+			font-weight: 200;
+			font-size: 18px;
+			color: $background-color;
+		}
 	}
 }
 
