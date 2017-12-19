@@ -11,9 +11,9 @@ body {
 	font-size: 16px;
 	color: $text-color;
 }
-a, a:link { color: $link-color }
+a, a:link { color: $link-color; }
 a:visited { color: $link-visited-color; } 
-a:hover, a:active { color: $link-active-color: text-decoration: underline;}
+a:hover, a:active { color: $link-active-color; text-decoration: underline;}
 
 h2, h3 {
 	color: $dark-color;
