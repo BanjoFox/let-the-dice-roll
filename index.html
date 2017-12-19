@@ -17,12 +17,6 @@ layout: default
       <div class="post-content">
         {% include post_content.html %}
       </div>
-      {% else %}
-      <div class="excerpt">
-        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        <a class="button continue-reading" href="{{ post.url | prepend: site.url }}">{{ site.theme_data.str_continue_reading }}</a>
-      </div>
-      {% endif %}
     </div>
     {% endfor %}
   </div>
