@@ -3,4 +3,4 @@ title: The Aardchives
 layout: archive
 ---
 
-##Aardwolf News Archives
+<h2>Aardwolf News Archives</h2>
