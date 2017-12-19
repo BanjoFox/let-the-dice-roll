@@ -29,8 +29,6 @@ theme_data:
   footer_text: ""
   # Icons
   rss: true
-  email_address: banjofox@gmail.com  # Full email address, e.g. "sam@example.com"
-
   github: "banjofox/aardwolf"
   mastodon: "https://dev.glitch.social/@banjofox"
 
