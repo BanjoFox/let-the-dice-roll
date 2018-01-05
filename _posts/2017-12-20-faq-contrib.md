@@ -15,7 +15,7 @@ Not really sure where I should start off but maybe if I just keep typing somethi
 A few reasons. 
 - One, at the time of inception I'd completely forgotten about Diaspora. 
 - Two, I strongly feel that having -more- options is better than fewer. 
-- Finally, I, and the rest of the initial dev-team,  *** REALLY *** just wanted to do a cool project in Rust-lang. 
+- Finally, I, and the rest of the initial dev-team,  **_REALLY_** just wanted to do a cool project in Rust-lang. 
 
 
 **Q: Why did you pick Rust-lang?**
