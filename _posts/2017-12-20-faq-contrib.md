@@ -12,14 +12,15 @@ Not really sure where I should start off but maybe if I just keep typing somethi
 
 **Q: Why not contribute to Diaspora, Friendica, or [insert_project here]?**
 
-**A**: A few reasons. One, at the time of inception I'd completely forgotten about Diaspora. 
-Two, I strongly feel that having -more- options is better than fewer. 
-Finally, I, and the rest of the initial dev-team, REALLY just wanted to do a cool project in Rust-lang. 
+A few reasons. 
+- One, at the time of inception I'd completely forgotten about Diaspora. 
+- Two, I strongly feel that having -more- options is better than fewer. 
+- Finally, I, and the rest of the initial dev-team,  *** REALLY *** just wanted to do a cool project in Rust-lang. 
 
 
 **Q: Why did you pick Rust-lang?**
 
-**A:** Because Rust seemed like a cool system-level(ish) language with built-in security. The fact that it can DO web-stuff is also pretty awesome. 
+Because Rust seemed like a cool system-level(ish) language with built-in security. The fact that it can DO web-stuff is also pretty awesome. 
 
 Go checkout [Are We Web Yet?](http://www.arewewebyet.org/) for more info on the Rusty Web :)
 
