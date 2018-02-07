@@ -15,3 +15,5 @@ date: 2018-02-06 10:24
 ### Alpha-release (MVP) Targets
 - Develop functionality for a single-instance "shoutbox-like" posting
 - Basic federation between two servers 
+
+***
