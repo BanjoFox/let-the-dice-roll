@@ -39,3 +39,5 @@ These are the folks I trust implicity with the project
 Oh.. and this guy too.
 
 - Steve "Sivy" - The one responsible for the website your reading right now ;), and also some design stuff he may not want me to talk about.
+
+***
