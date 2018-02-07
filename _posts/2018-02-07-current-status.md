@@ -1,6 +1,6 @@
 ---
 title: State of the Aardwolf
-date: 2018-02-06 10:24
+date: 2018-02-07 10:24
 ---
 ## Current state of the Aardwolf code
 - The server compiles
