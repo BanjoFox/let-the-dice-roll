@@ -3,12 +3,12 @@ title: Introduction
 date: 2017-12-20 15:50
 ---
 
-# Hello! #
+## Hello! 
 Welcome to the Aardwolf project!
 
 Not really sure where I should start off but maybe if I just keep typing something cool will come to me... OH, I know! 
 
-## Frequently Asked Questions ##
+### Frequently Asked Questions
 
 **Q: Why not contribute to Diaspora, Friendica, or [insert_project here]?**
 
@@ -25,7 +25,7 @@ Because Rust seemed like a cool system-level(ish) language with built-in securit
 Go checkout [Are We Web Yet?](http://www.arewewebyet.org/) for more info on the Rusty Web :)
 
 
-## Contributors ##
+### Contributors
 
 These are the folks I trust implicity with the project
 
