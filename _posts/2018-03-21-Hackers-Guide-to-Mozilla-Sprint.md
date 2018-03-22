@@ -1,5 +1,3 @@
-2018-03-21-current-status.md
-
 ---
 title: Hackers Guide to Mozilla Sprint
 date: 2018-03-21 22:21
