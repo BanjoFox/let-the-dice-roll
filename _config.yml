@@ -29,8 +29,8 @@ theme_data:
   footer_text: "Social, Open, Connected: Aardwolf"
   # Icons
   rss: true
-  github: "banjofox/aardwolf"
-  mastodon: "https://dev.glitch.social/@banjofox"
+  github: "Aardwolf-Social/aardwolf"
+  mastodon: "https://glitch.social/@aardwolf"
 
   # Localization strings
   str_follow_on: "Follow on"
