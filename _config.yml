@@ -6,7 +6,7 @@ plugins:
 
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://aardwolf.social" # the base hostname & protocol for your site
+url: "https://banjofox.github.io/let-the-dice-roll/" # the base hostname & protocol for your site
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -95,5 +95,3 @@ defaults:
 #          element: "text"
 #          label: "Feature Img"
 #          help: "image in the images/ folder"
-
-theme: jekyll-theme-hacker
