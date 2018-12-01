@@ -5,8 +5,8 @@ plugins:
   - jekyll-auto-image
 
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://banjofox.github.io/let-the-dice-roll/" # the base hostname & protocol for your site
+baseurl: "/let-the-dice-roll/" # the subpath of your site, e.g. /blog/
+url: "https://banjofox.github.io" # the base hostname & protocol for your site
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -26,7 +26,7 @@ theme_data:
 
   # Header and footer text
   header_text: ""
-  footer_text: "Social, Open, Connected: Aardwolf"
+  footer_text: "Let the Dice Roll"
   # Icons
   rss: true
   github: "banjofox/let-the-dice-roll"
