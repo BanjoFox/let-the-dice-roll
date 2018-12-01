@@ -5,8 +5,8 @@ plugins:
   - jekyll-auto-image
 
 # SITE CONFIGURATION
-baseurl: "/let-the-dice-roll/" # the subpath of your site, e.g. /blog/
-url: "https://banjofox.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://letthediceroll.com" # the base hostname & protocol for your site
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
