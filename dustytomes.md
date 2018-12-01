@@ -1,5 +1,5 @@
 ---
-title: Dusty Tomes
+title: Vaulted
 layout: archive
 ---
 
