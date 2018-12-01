@@ -4,12 +4,12 @@
 
 #logotype {
 	margin: 2em auto;
-	background-image: url("/static/aardwolf-logo.png");
+	background-image: url("/static/let-the-dice-roll-logo.png");
 	background-repeat: no-repeat;
 	background-position: 100% 30%;
 	background-size: 150px 150px ;
 	height: 150px;
-	width: 415px;
+	width: 600px;
 	padding: 10px;
 	padding-right: 150px;
 	font-family: $header-font-family;
@@ -21,7 +21,7 @@
 #logotype span#head {
 	color: $dark-color;
 	letter-spacing: -2px;
-	font-size: 64px;
+	font-size: 60px;
 }
 #logotype span#subhead {
 	display: block;

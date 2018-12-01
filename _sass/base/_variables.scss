@@ -9,21 +9,21 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$dark-color: #3f1906;
-$secondary-color: #008b82;
-$background-color: #f0ebe2;
-$border-color: #333333;
+$dark-color: #000D10;		// Hero underline
+$secondary-color: #06313D; 	// Hero background	
+$background-color: #265B6A;	// Body background
+$border-color: #F2C393;		// Border color
 
 // Typography colours
-$text-color: #222222;
-$link-color: #8b3307;
+$text-color: #5D8A97;
+$link-color: #06313D;
 $link-visited-color: $secondary-color;
-$link-active-color: #063f3b;
+$link-active-color: #C8DCE2;
 
 $selection-color: #D4D4D4; // visible when highlighting text
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #FFF0E1;
 
 // Media query sizes
 $media-phone-narrow: 320px;
