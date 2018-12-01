@@ -95,3 +95,5 @@ defaults:
 #          element: "text"
 #          label: "Feature Img"
 #          help: "image in the images/ folder"
+
+theme: jekyll-theme-hacker
