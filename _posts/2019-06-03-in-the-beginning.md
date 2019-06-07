@@ -5,7 +5,7 @@ date: 2019-06-03 13:26
 
 ## Greetings Listener! 
 
-<div>
+<div class="player">
 <iframe src="https://anchor.fm/letthediceroll/embed/episodes/The-Beginning---EP01-e490rf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 </div>
 
