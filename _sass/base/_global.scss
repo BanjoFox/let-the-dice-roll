@@ -104,8 +104,14 @@ a {
   padding: 0;
 }
 // Responsive media
-iframe, img, embed, object, video {
+iframe,img, embed, object, video {
   max-width: 100%;
+}
+div.iframe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px #CCC solid;
 }
 img[align=left] {
   margin-right: 3%;
