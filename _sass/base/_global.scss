@@ -27,6 +27,9 @@ h1, h2, h3, h4, h5, h6 {
     color: $text-color;
   }
 }
+strong {
+  color: $strong-color;
+}
 h1 {
   font-size: 2.5em;
 }
@@ -90,7 +93,7 @@ ol, ul {
 hr {
   border: 0;
   border-top: 1px solid $border-color;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #F2C393;
   margin: 1em 0;
 }
 a {
@@ -107,11 +110,11 @@ a {
 iframe,img, embed, object, video {
   max-width: 100%;
 }
-div.player {
+.player {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 3px #CCC solid;
+    border: 3px #F2C393 solid;
 }
 img[align=left] {
   margin-right: 3%;
