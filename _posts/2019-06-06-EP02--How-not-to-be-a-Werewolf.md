@@ -1,5 +1,5 @@
 ---
-title: How Not to be a Werewolf
+title: EP02 - How Not to be a Werewolf
 date: 2019-06-06 13:26
 ---
 
