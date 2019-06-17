@@ -1,5 +1,5 @@
 ---
-title: In the Beginning - EP01
+title: EP01 - In the Beginning - EP01
 date: 2019-06-03 13:26
 ---
 
