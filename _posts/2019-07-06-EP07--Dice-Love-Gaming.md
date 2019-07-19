@@ -4,10 +4,10 @@ date: 2019-06-22 12:21
 ---
 
 ## Can you -really- have TOO many dice?
-
-<br />
+<iframe src="https://anchor.fm/letthediceroll/embed/episodes/EP07---Dice--Love--Gaming-e4h92g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<p>
 This week Banjo goes on one heck of a rant about his gaming addiction, and try to warn new gamers against the danger, however Raspathir is able to provide a glimmer of hope that newer gamers won't end up in the same trap.  There is also a LOT of chat about dice; collecting, laying down rules, and even how to "teach" them what not to do.  
-<br />
+</p>
 <p><strong>Chessex Dice</strong><br>
 <a href="http://chessex.com/">http://chessex.com/</a></p>
 <p><strong>Mongoose Publishing</strong><br>
