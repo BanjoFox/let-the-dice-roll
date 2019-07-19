@@ -5,6 +5,8 @@ date: 2019-07-19 12:21
 
 ## Real geeks go LARPing
 
+[NOT YET RELEASED]
+
 <br />
 Just when you thought it was over, Banjo comes back with another long, presumptive rant.  This time it leads to a couple of stories about Live Action Roleplaying (LARPing).  Yes, ACTUAL STORIES!
 It does come at the cost of learning a bit about the nerdiest way to play a game though...
