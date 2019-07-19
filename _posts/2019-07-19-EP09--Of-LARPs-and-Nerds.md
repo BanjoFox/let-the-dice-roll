@@ -8,9 +8,10 @@ date: 2019-07-19 12:21
 [NOT YET RELEASED]
 
 <br />
+<p>
 Just when you thought it was over, Banjo comes back with another long, presumptive rant.  This time it leads to a couple of stories about Live Action Roleplaying (LARPing).  Yes, ACTUAL STORIES!
 It does come at the cost of learning a bit about the nerdiest way to play a game though...
- 
+</p>
 <br />
 <p><strong>Amtgard</strong><br>
 <a href="https://amtgard.com/">https://amtgard.com/</a></p>
