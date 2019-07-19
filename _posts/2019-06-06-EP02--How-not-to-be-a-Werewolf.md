@@ -4,7 +4,7 @@ date: 2019-06-06 13:26
 ---
 
 ## How Not to be a Werewolf
-<iframe src="https://anchor.fm/letthediceroll/embed/episodes/EP02---How-Not-to-be-a-Werewolf-e490ua" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/letthediceroll/embed/episodes/EP02---How-Not-to-be-a-Werewolf-e490ua" height="102px" width="400px" frameborder="1" scrolling="no"></iframe>
 
 <br />
 Banjo, and Raspathir reminisce about their first time gaming together.  The game, Werewolf: The Apocalypse (Revised World of Darkness).  Some bad stuff happened, lessons were learned but never applied, and recurring characters would be introduced!

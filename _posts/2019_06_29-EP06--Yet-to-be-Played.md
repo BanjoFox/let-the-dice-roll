@@ -4,7 +4,7 @@ date: 2019-09-29 12:21
 ---
 
 ## Will there be a part 2?
-<iframe src="https://anchor.fm/letthediceroll/embed/episodes/EP06---Yet-to-be-Played-e4fncd" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/letthediceroll/embed/episodes/EP06---Yet-to-be-Played-e4fncd" height="102px" width="400px" frameborder="1" scrolling="no"></iframe>
 
 <p>
 Taking a break from the ever-present burden of knowledge, Banjo decides to talk about game books that he owns but has never played.  Raspathir, on the other hand, actually knows quite a bit about the games that he has never played.  What follows are links to the various games discussed in this episode :)
