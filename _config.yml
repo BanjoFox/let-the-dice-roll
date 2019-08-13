@@ -26,7 +26,7 @@ theme_data:
 
   # Header and footer text
   header_text: ""
-  footer_text: "Let the Dice Roll"
+  footer_text: "Let the Dice Roll - Original Website design by Steve Ivy - <a href="https://www.monkinetic.blog/">https://www.monkinetic.blog/"
   # Icons
   rss: true
   github: "banjofox/let-the-dice-roll"
