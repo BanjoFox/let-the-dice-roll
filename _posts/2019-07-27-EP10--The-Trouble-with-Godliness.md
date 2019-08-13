@@ -1,6 +1,6 @@
 ---
 title: EP10 - The Trouble with Godliness
-date: 2019-09-29 12:21
+date: 2019-08-29 12:21
 ---
 
 ## Ever wanted to be the child of a diety?
