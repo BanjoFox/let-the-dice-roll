@@ -1,67 +1,1068 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Let the Dice Roll | An irreverent podcast about social gaming</title>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/</link>
-    <description>Let the Dice Roll | An irreverent podcast about social gaming, tabletop gaming, and RPGs in general</description>
-    <pubDate>Sat, 01 Dec 2018 16:07:33 -0500</pubDate>
-    
-      <item>
-        <title>Introduction</title>
-        <link>http://localhost:4000/news/2018/12/01/the-beginning.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2018/12/01/the-beginning.html</guid>
-        <description>&lt;h2 id=&quot;greetings-listener&quot;&gt;Greetings Listener!&lt;/h2&gt;
-&lt;p&gt;Welcome to the website about the Podcast known as Let the Dice Roll!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Let the Dice Roll]]></title>
+		<description><![CDATA[Each week best friends, and co-hosts Raspathir, and Banjo try to tell a story or two about gaming sessions past. They use a very informal, converstation-style format as they try to share some background about the topic for the week, as well as their opinions before diving into the juicy story bits. Coverng largely tabletop roleplaying, they do also delve into board games, and other social-focused games. Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+		<link>https://letthediceroll.com/</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg</url>
+			<title>Let the Dice Roll</title>
+			<link>https://letthediceroll.com/</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sat, 26 Oct 2019 14:30:02 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/bea9efc/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Banjo Fox]]></author>
+		<copyright><![CDATA[Banjo Fox]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<anchor:support>https://anchor.fm/letthediceroll/support</anchor:support>
+		<anchor:station>bea9efc</anchor:station>
+		<itunes:author>Banjo Fox</itunes:author>
+		<itunes:summary>Each week best friends, and co-hosts Raspathir, and Banjo try to tell a story or two about gaming sessions past. They use a very informal, converstation-style format as they try to share some background about the topic for the week, as well as their opinions before diving into the juicy story bits. Coverng largely tabletop roleplaying, they do also delve into board games, and other social-focused games. Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Banjo Fox</itunes:name>
+			<itunes:email>podcasts11+bea9efc@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+		<item>
+			<title><![CDATA[EP21 - This is a Dark Place]]></title>
+			<description><![CDATA[<p><strong>WARNING: This game contains mature themes!</strong></p>
+<p>In typical late fashion, we kick off a "Spoopy" series of episodes that focus on more horror-themed games. &nbsp;This one is all about "In Dark Alleys". &nbsp;A game of modern horror by independent publisher Vajra Enterprises. &nbsp;This game has loads of interesting character options, dark plots that put black holes to shame, and a system (Organic Rule Components), which can add hyper realism to any campaign.<br>
+</p>
+<p><strong>In Dark Alleys Info Page</strong><br>
+<a href="https://www.vajraenterprises.com/new/?p=44">https://www.vajraenterprises.com/new/?p=44</a></p>
+<p><strong>Organic Rule Components</strong><br>
+<a href="https://www.vajraenterprises.com/new/?p=132">https://www.vajraenterprises.com/new/?p=132</a></p>
 
-&lt;p&gt;A whole bunch of fluff here about the first episode.&lt;/p&gt;
+<a href="https://www.drivethrurpg.com/browse.php?affiliate_id=18388"><img src="https://www.drivethrurpg.com/themes/dtrpg/images/affiliatebanner3.png" border="0" alt="DriveThruRPG.com" /></a>
 
-&lt;hr /&gt;
-</description>
-        <pubDate>Sat, 01 Dec 2018 13:26:00 -0500</pubDate>
-      </item>
-    
-      <item>
-        <title>two</title>
-        <link>http://localhost:4000/news/2018/11/02/the-beginning.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2018/11/02/the-beginning.html</guid>
-        <description>&lt;h2 id=&quot;two&quot;&gt;two&lt;/h2&gt;
-&lt;p&gt;Welcome to the website about the Podcast known as Let the Dice Roll!&lt;/p&gt;
+--- 
 
-&lt;p&gt;A whole bunch of fluff here about the first episode.&lt;/p&gt;
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
 
-&lt;hr /&gt;
-</description>
-        <pubDate>Fri, 02 Nov 2018 13:26:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>three</title>
-        <link>http://localhost:4000/news/2018/10/03/the-beginning.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2018/10/03/the-beginning.html</guid>
-        <description>&lt;h2 id=&quot;three&quot;&gt;Three!&lt;/h2&gt;
-&lt;p&gt;Welcome to the website about the Podcast known as Let the Dice Roll!&lt;/p&gt;
+--- 
 
-&lt;p&gt;A whole bunch of fluff here about the first episode.&lt;/p&gt;
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP21---This-is-a-Dark-Place-e7sk88</link>
+			<guid isPermaLink="false">40455085-17e5-9873-f75a-bc110ac55410</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 26 Oct 2019 01:35:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/7278280/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-9-26%2FEP21---This-is-a-Dark-Place-4f4154c852d36.m4a" length="43383329" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;WARNING: This game contains mature themes!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In typical late fashion, we kick off a &quot;Spoopy&quot; series of episodes that focus on more horror-themed games. &amp;nbsp;This one is all about &quot;In Dark Alleys&quot;. &amp;nbsp;A game of modern horror by independent publisher Vajra Enterprises. &amp;nbsp;This game has loads of interesting character options, dark plots that put black holes to shame, and a system (Organic Rule Components), which can add hyper realism to any campaign.&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In Dark Alleys Info Page&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.vajraenterprises.com/new/?p=44&quot;&gt;https://www.vajraenterprises.com/new/?p=44&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organic Rule Components&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.vajraenterprises.com/new/?p=132&quot;&gt;https://www.vajraenterprises.com/new/?p=132&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
-</description>
-        <pubDate>Wed, 03 Oct 2018 13:26:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>four</title>
-        <link>http://localhost:4000/news/2018/09/04/the-beginning.html</link>
-        <guid isPermaLink="true">http://localhost:4000/news/2018/09/04/the-beginning.html</guid>
-        <description>&lt;h2 id=&quot;four&quot;&gt;Four&lt;/h2&gt;
-&lt;p&gt;Welcome to the website about the Podcast known as Let the Dice Roll!&lt;/p&gt;
+&lt;a href=&quot;https://www.drivethrurpg.com/browse.php?affiliate_id=18388&quot;&gt;&lt;img src=&quot;https://www.drivethrurpg.com/themes/dtrpg/images/affiliatebanner3.png&quot; border=&quot;0&quot; alt=&quot;DriveThruRPG.com&quot; /&gt;&lt;/a&gt;
 
-&lt;p&gt;A whole bunch of fluff here about the first episode.&lt;/p&gt;
+--- 
 
-&lt;hr /&gt;
-</description>
-        <pubDate>Tue, 04 Sep 2018 13:26:00 -0400</pubDate>
-      </item>
-    
-  </channel>
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>2682</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP20 - Cleanse the Palate]]></title>
+			<description><![CDATA[<p>Sometimes games run too long, players get bored of the same old thing, and you need a change of pace. &nbsp;That was the plan anyways. &nbsp;But as usual with this podcast, Banjo takes the opportunity to check in with Raspathir (self-care reminder!). &nbsp;That leads to YET ANOTHER cathartic rant, but fortunately the boys are able to use that energy in the second half to get back on topic. &nbsp;A palate cleanser for the hosts, as well as actual advice for gaming.</p>
+
+<p><br></p>
+<p><strong>Attribution:</strong><br />
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br />
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br />
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP20---Cleanse-the-Palate-e7ksj7</link>
+			<guid isPermaLink="false">f177c543-0aac-b51d-3044-a332962e3377</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Thu, 17 Oct 2019 22:45:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/7024679/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-9-17%2FEP20---Cleanse-the-Palate-4d0c1a4915f8e.m4a" length="61492088" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Sometimes games run too long, players get bored of the same old thing, and you need a change of pace. &amp;nbsp;That was the plan anyways. &amp;nbsp;But as usual with this podcast, Banjo takes the opportunity to check in with Raspathir (self-care reminder!). &amp;nbsp;That leads to YET ANOTHER cathartic rant, but fortunately the boys are able to use that energy in the second half to get back on topic. &amp;nbsp;A palate cleanser for the hosts, as well as actual advice for gaming.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br /&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br /&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br /&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3802</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP19 - Banjo Ranting]]></title>
+			<description><![CDATA[<p>Banjo has a VERY bad week, and needs to tell you about it. &nbsp;If you like to hear him go off on tirades about stuff GREAT! &nbsp;This episode is just for you. &nbsp;Otherwise... well we deeply apologize for what you are about to hear. &nbsp;Except if you skip this one. &nbsp;That is okay too.</p>
+
+<p><strong>Attribution:</strong><br />
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br />
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br />
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP19---Banjo-Ranting-e6opqe</link>
+			<guid isPermaLink="false">df67dfec-7425-77b6-c359-3145bc24ccb0</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Fri, 11 Oct 2019 23:23:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/6104334/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-9-11%2FEP19---Banjo-Ranting-c90cda93e6d38.m4a" length="40028524" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Banjo has a VERY bad week, and needs to tell you about it. &amp;nbsp;If you like to hear him go off on tirades about stuff GREAT! &amp;nbsp;This episode is just for you. &amp;nbsp;Otherwise... well we deeply apologize for what you are about to hear. &amp;nbsp;Except if you skip this one. &amp;nbsp;That is okay too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br /&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br /&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br /&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2475</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP18 - Acting the Part]]></title>
+			<description><![CDATA[<p>Banjo must conquer his emotions for this special listener requested episode as he can Raspathir discuss The Actor(tm). Yes folks, this entire episode is dedicated to the NPC that makes Banjo &amp; Friends twitch with enthusiasm. Get ready for a lot a whimpering, and even a couple of revelations.</p>
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP18---Acting-the-Part-e5ku5q</link>
+			<guid isPermaLink="false">73d14316-73a2-51dc-6b42-4af6f575b9a6</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 28 Sep 2019 15:45:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4929146/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-9-1%2FEP18---Acting-the-Part-53d07331780f3.m4a" length="46884503" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Banjo must conquer his emotions for this special listener requested episode as he can Raspathir discuss The Actor(tm). Yes folks, this entire episode is dedicated to the NPC that makes Banjo &amp;amp; Friends twitch with enthusiasm. Get ready for a lot a whimpering, and even a couple of revelations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2898</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP17 - CheapassGames]]></title>
+			<description><![CDATA[<p>Tired of paying too much for board games? &nbsp;Do you have too many &nbsp;bits and pieces from games that you hardly ever play? Well have we got a solution for you! &nbsp;Let the Dice Roll is proud to present you with: Cheapass Games! &nbsp;A vendor that specializes in low-cost games that also make use of game components you already have lying about the house. &nbsp;Horray!</p>
+<p>Banjo also shares his feelings on anniversary editions that go well above, and beyond their original production quality.</p>
+<p>Cheapass Games Homepage<br>
+<a href="https://cheapass.com/">https://cheapass.com/</a></p>
+<p>Cheapass Games - Originals (Including Kill Doctor Lucky)<br>
+<a href="https://cheapass.com/free-games/originals/">https://cheapass.com/free-games/originals/</a></p>
+
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP17---CheapassGames-e5ga5o</link>
+			<guid isPermaLink="false">24149064-6899-c903-bd67-74e31fd4a431</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sun, 22 Sep 2019 14:46:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4777592/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-9-1%2FEP17---CheapassGames-894516c93b72a.m4a" length="37042091" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Tired of paying too much for board games? &amp;nbsp;Do you have too many &amp;nbsp;bits and pieces from games that you hardly ever play? Well have we got a solution for you! &amp;nbsp;Let the Dice Roll is proud to present you with: Cheapass Games! &amp;nbsp;A vendor that specializes in low-cost games that also make use of game components you already have lying about the house. &amp;nbsp;Horray!&lt;/p&gt;
+&lt;p&gt;Banjo also shares his feelings on anniversary editions that go well above, and beyond their original production quality.&lt;/p&gt;
+&lt;p&gt;Cheapass Games Homepage&lt;br&gt;
+&lt;a href=&quot;https://cheapass.com/&quot;&gt;https://cheapass.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cheapass Games - Originals (Including Kill Doctor Lucky)&lt;br&gt;
+&lt;a href=&quot;https://cheapass.com/free-games/originals/&quot;&gt;https://cheapass.com/free-games/originals/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2290</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP16 - Big Box Games]]></title>
+			<description><![CDATA[<p>Tired of board games that are too small, too "family friendly" or dare we say it... easy to play? &nbsp;Well throw down a big wad of cash on one of these fine titles! &nbsp;All jokes aside, we are talking about board games that are very much in a category of their own. &nbsp;For fans of the genres they represent, they offer a LOT of gaming enjoyment. &nbsp;Both in duration of play, as well as depth of strategy. &nbsp;Some of them even have RPG elements baked right in! &nbsp;No DM required.</p>
+<p><strong>Games in this Episode:</strong></p>
+<p>Sid Meier's Civilization<br>
+<a href="https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-boardgame">https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-boardgame</a></p>
+<p>Twilight Imperium<br>
+<a href="https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition">https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition</a></p>
+<p>Cthulhu Wars<br>
+<a href="https://boardgamegeek.com/boardgame/139976/cthulhu-wars">https://boardgamegeek.com/boardgame/139976/cthulhu-wars</a></p>
+<p>Descent: Journeys in the Dark<br>
+<a href="https://boardgamegeek.com/boardgame/17226/descent-journeys-dark">https://boardgamegeek.com/boardgame/17226/descent-journeys-dark</a></p>
+<p>Kingdom Death: Monster<br>
+<a href="https://boardgamegeek.com/boardgame/55690/kingdom-death-monster">https://boardgamegeek.com/boardgame/55690/kingdom-death-monster</a></p>
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP16---Big-Box-Games-e5bs10</link>
+			<guid isPermaLink="false">12e0a856-c3db-0f41-0746-c6f331a943e2</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 14 Sep 2019 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4632032/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-8-13%2FEP16---Big-Box-Games-259a2669341ac.m4a" length="39468005" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Tired of board games that are too small, too &quot;family friendly&quot; or dare we say it... easy to play? &amp;nbsp;Well throw down a big wad of cash on one of these fine titles! &amp;nbsp;All jokes aside, we are talking about board games that are very much in a category of their own. &amp;nbsp;For fans of the genres they represent, they offer a LOT of gaming enjoyment. &amp;nbsp;Both in duration of play, as well as depth of strategy. &amp;nbsp;Some of them even have RPG elements baked right in! &amp;nbsp;No DM required.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Games in this Episode:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sid Meier&apos;s Civilization&lt;br&gt;
+&lt;a href=&quot;https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-boardgame&quot;&gt;https://boardgamegeek.com/boardgame/3633/sid-meiers-civilization-boardgame&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twilight Imperium&lt;br&gt;
+&lt;a href=&quot;https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition&quot;&gt;https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cthulhu Wars&lt;br&gt;
+&lt;a href=&quot;https://boardgamegeek.com/boardgame/139976/cthulhu-wars&quot;&gt;https://boardgamegeek.com/boardgame/139976/cthulhu-wars&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Descent: Journeys in the Dark&lt;br&gt;
+&lt;a href=&quot;https://boardgamegeek.com/boardgame/17226/descent-journeys-dark&quot;&gt;https://boardgamegeek.com/boardgame/17226/descent-journeys-dark&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kingdom Death: Monster&lt;br&gt;
+&lt;a href=&quot;https://boardgamegeek.com/boardgame/55690/kingdom-death-monster&quot;&gt;https://boardgamegeek.com/boardgame/55690/kingdom-death-monster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2440</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP15 - Betrayal at the What on the Where?]]></title>
+			<description><![CDATA[<p>Finally something the whole family can play! ... well, sort of. Betrayal at House on the Hill is a boardgame for ages 12+ and features a bit of mild horror and a LOT of suspense. During the course of the game, players take turns exploring a mysterious house, and uncovering mysteries. At some point though one of them becomes a traitor! Will it be you?</p>
+<p><strong>Betrayal at House on the Hill</strong><br>
+<a href=" https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill">https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill</a></p>
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP15---Betrayal-at-the-What-on-the-Where-e596h0</link>
+			<guid isPermaLink="false">10c10c7b-8b79-0fab-b276-a409f45a784b</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 07 Sep 2019 14:58:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4544480/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-8-7%2FEP15---Betrayal-at-the-What-on-cf19d06755553.m4a" length="47850778" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Finally something the whole family can play! ... well, sort of. Betrayal at House on the Hill is a boardgame for ages 12+ and features a bit of mild horror and a LOT of suspense. During the course of the game, players take turns exploring a mysterious house, and uncovering mysteries. At some point though one of them becomes a traitor! Will it be you?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Betrayal at House on the Hill&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot; https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill&quot;&gt;https://avalonhill.wizards.com/avalon-hill-betrayal-house-hill&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2958</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP14 - Session Zero]]></title>
+			<description><![CDATA[<p>Session Zero is a very important aspect of every roleplaying game. Whether it be for a one-shot, or a multi-year campaign. It is a time where the game host, and players can get to know one another, what they want to play, and even get a bit of a preview for what is to come. While it may not always be necessary, it can certainly clear up a whole bunch of questions.</p>
+
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP14---Session-Zero-e563kf</link>
+			<guid isPermaLink="false">8a081085-3a9d-7b45-c21d-ce5bcd623a2f</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 31 Aug 2019 17:04:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4443215/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-8-7%2FEP14---Session-Zero-f3312d6ab7c8d.m4a" length="47982233" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Session Zero is a very important aspect of every roleplaying game. Whether it be for a one-shot, or a multi-year campaign. It is a time where the game host, and players can get to know one another, what they want to play, and even get a bit of a preview for what is to come. While it may not always be necessary, it can certainly clear up a whole bunch of questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2966</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP13 - Bad Medicine]]></title>
+			<description><![CDATA[<p>Raspathir has gathered together a number of friends to play in a Dungeons &amp; Dragons campaign. The setting is called "Curse of Strahd". In this game, Banjo plays a chaotic neutral Tiefling that also happens to be a -very- knowledgeable cleric. This causes problems because the players only see her as a healer... it makes for some interesting roleplaying.</p>
+<p><strong>Curse of Strahd</strong><br>
+<a href="https://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd">https://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd</a></p>
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP13---Bad-Medicine-e5387o</link>
+			<guid isPermaLink="false">9fe6a018-3efe-5699-e4e6-8a4d0fe89194</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 24 Aug 2019 20:36:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4349624/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-8-7%2FEP13---Bad-Medicine-55b840cacd11e.m4a" length="45160534" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Raspathir has gathered together a number of friends to play in a Dungeons &amp;amp; Dragons campaign. The setting is called &quot;Curse of Strahd&quot;. In this game, Banjo plays a chaotic neutral Tiefling that also happens to be a -very- knowledgeable cleric. This causes problems because the players only see her as a healer... it makes for some interesting roleplaying.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Curse of Strahd&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd&quot;&gt;https://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2792</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Intermission - The one betwixt S01, and S02]]></title>
+			<description><![CDATA[<p>Not one to leave folks hanging, Banjo has done gone off script and recorded an entire episode BY HIMSELF and uncut!!! &nbsp;Oh the horror, such woe, et. al!!! &nbsp;We are not at all kidding either... Banjo sits down, with a glass of adult beverage, and just talks into the microphone. &nbsp;There is a bit of behind-the-scenes stuff, motivations for the podcast, and a whole lot of him ranting. &nbsp;Will this keep him from ranting endlessly in other episdoes? &nbsp;Possibly.. fingers crossed!</p>
+<p>Both boys will be back for Season 2 in a little while (next week hopefully!). &nbsp;&nbsp;</p>
+<p>This episode has been marked "explicit" for some foul language, but really it's just a couple of naughty words that would probably make it a T for Teen rating (the usual). &nbsp;</p>
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  <a href="https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp">https://anchor.fm/app</a>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/Intermission---The-one-betwixt-S01--and-S02-e508b0</link>
+			<guid isPermaLink="false">0e3ee11d-02ce-626f-925c-1808f6f9646f</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 17 Aug 2019 02:37:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4251424/sponsor/ajneui/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-17%2FIntermission---The-one-betwixt-23a20388cfe1.m4a" length="39122435" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Not one to leave folks hanging, Banjo has done gone off script and recorded an entire episode BY HIMSELF and uncut!!! &amp;nbsp;Oh the horror, such woe, et. al!!! &amp;nbsp;We are not at all kidding either... Banjo sits down, with a glass of adult beverage, and just talks into the microphone. &amp;nbsp;There is a bit of behind-the-scenes stuff, motivations for the podcast, and a whole lot of him ranting. &amp;nbsp;Will this keep him from ranting endlessly in other episdoes? &amp;nbsp;Possibly.. fingers crossed!&lt;/p&gt;
+&lt;p&gt;Both boys will be back for Season 2 in a little while (next week hopefully!). &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This episode has been marked &quot;explicit&quot; for some foul language, but really it&apos;s just a couple of naughty words that would probably make it a T for Teen rating (the usual). &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+This episode is sponsored by 
+· Anchor: The easiest way to make a podcast.  &lt;a href=&quot;https://anchor.fm/s/bea9efc/podcast/sponsor/acugj9/url/https%3A%2F%2Fanchor.fm%2Fapp&quot;&gt;https://anchor.fm/app&lt;/a&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>2419</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP12 - The Worst Season FINALE Ever]]></title>
+			<description><![CDATA[<p>Following close on the heels of the Worst Episode Ever is the unexpected Season Finale!<br>
+Unexpected because we had planned at least another episode but time, and other factors came up. &nbsp;Blah blah blah.</p>
+<p>In THIS episode we have a mix of topics, a -very- unscripted grab bag if you will.<br>
+We are dark next week, but after that we are going to come back with Season 2!<br>
+</p>
+<p><strong>Attribution:</strong><br>
+Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP12---The-Worst-Season-FINALE-Ever-e4uuoe</link>
+			<guid isPermaLink="false">848f2112-e83d-bf6b-a620-66fbfea2472a</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Tue, 13 Aug 2019 22:25:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4208846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-13%2F20877478-44100-2-148f8092eb414.m4a" length="67305845" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Following close on the heels of the Worst Episode Ever is the unexpected Season Finale!&lt;br&gt;
+Unexpected because we had planned at least another episode but time, and other factors came up. &amp;nbsp;Blah blah blah.&lt;/p&gt;
+&lt;p&gt;In THIS episode we have a mix of topics, a -very- unscripted grab bag if you will.&lt;br&gt;
+We are dark next week, but after that we are going to come back with Season 2!&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;br&gt;
+Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2730</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 11.5 - Appologies!]]></title>
+			<description><![CDATA[<p>Hey everyone! &nbsp;We DO have a proper episode 12 finale coming in, but time got lost, dice were obliterated.... yeah... TOMORROW I should have the next installment ready, then after a short intermission we are into SEASON TWO!</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/Episode-11-5---Appologies-e4u5ar</link>
+			<guid isPermaLink="false">c72b2e2b-7b45-f79a-456a-7fd11d2719c1</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Mon, 12 Aug 2019 01:29:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4182811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-12%2F20735533-44100-1-3a6ba8419a18f.m4a" length="571902" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Hey everyone! &amp;nbsp;We DO have a proper episode 12 finale coming in, but time got lost, dice were obliterated.... yeah... TOMORROW I should have the next installment ready, then after a short intermission we are into SEASON TWO!&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>45</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP11 - Worst, Episode, Ever]]></title>
+			<description><![CDATA[<p>
+Has this ever happened to you? The party is moving along nicely, everyone knows their part in the plan, then SUDDENLY, everything is on FIRE. Well, we have the solution for you!
+Actually.... no. That is a lie. But! We DO talk about how things can go badly, and offer a few small words about how to handle those situations.
+
+Additionally: As Banjo says in the cold open, Ratkin are organized by "Aspects" and not "Plagues". Le sigh..
+</p>
+
+
+<p><strong>Attribution:</strong></p>
+<p>Music from <a href="https://filmmusic.io">https://filmmusic.io</a>&lt;br /&gt;</p>
+<p>"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)&lt;br /&gt;</p>
+<p>Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP11---Worst--Episode--Ever-e4r4hq</link>
+			<guid isPermaLink="false">1a742053-e44f-5894-d31b-a7ea4bb04c4f</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 03 Aug 2019 15:19:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4083706/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20128051-44100-2-998f3531c4cc.m4a" length="65824997" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;
+Has this ever happened to you? The party is moving along nicely, everyone knows their part in the plan, then SUDDENLY, everything is on FIRE. Well, we have the solution for you!
+Actually.... no. That is a lie. But! We DO talk about how things can go badly, and offer a few small words about how to handle those situations.
+
+Additionally: As Banjo says in the cold open, Ratkin are organized by &quot;Aspects&quot; and not &quot;Plagues&quot;. Le sigh..
+&lt;/p&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&amp;lt;br /&amp;gt;&lt;/p&gt;
+&lt;p&gt;&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&amp;lt;br /&amp;gt;&lt;/p&gt;
+&lt;p&gt;Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2670</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP10 - The Trouble with Godliness]]></title>
+			<description><![CDATA[<p>
+What started out as a nice conversation about Scion: Hero, a game in which players get to create direct offspring of their favorite gods, turned into a rather anxiety-inducing origin story about a recurring antagonist which Banjo, and his fellow players love to hate. Mind you there is a bit of ... mild language so this episode has been marked explicit accordingly.
+</p>
+
+<p><strong>Scion: Hero</strong><br>
+<a href="https://whitewolf.fandom.com/wiki/Scion:_Hero</a></p>
+
+
+<p><strong>Attribution:</strong></p>
+<p>Music from <a href="https://filmmusic.io">https://filmmusic.io</a>&lt;br /&gt;</p>
+<p>"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)&lt;br /&gt;</p>
+<p>Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP10---The-Trouble-with-Godliness-e4omub</link>
+			<guid isPermaLink="false">d99d29ee-962a-0a94-d58f-eacc1e1eb116</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 27 Jul 2019 20:57:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/4004235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19690326-44100-2-693a97ad3f742.m4a" length="64468154" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;
+What started out as a nice conversation about Scion: Hero, a game in which players get to create direct offspring of their favorite gods, turned into a rather anxiety-inducing origin story about a recurring antagonist which Banjo, and his fellow players love to hate. Mind you there is a bit of ... mild language so this episode has been marked explicit accordingly.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scion: Hero&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://whitewolf.fandom.com/wiki/Scion:_Hero&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&amp;lt;br /&amp;gt;&lt;/p&gt;
+&lt;p&gt;&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&amp;lt;br /&amp;gt;&lt;/p&gt;
+&lt;p&gt;Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2615</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP09 - Of LARPs, and Nerds]]></title>
+			<description><![CDATA[<p>Just when you thought it was over, Banjo comes back with another long, presumptive rant. This time it leads to a couple of stories about Live Action Roleplaying (LARPing). Yes, ACTUAL STORIES! It does come at the cost of learning a bit about the nerdiest way to play a game though...</p>
+<p><strong>Amtgard</strong><br>
+<a href="https://amtgard.com/">https://amtgard.com/</a></p>
+<p><strong>Green Cloaks</strong><br>
+<a href="https://www.greencloaks.co.uk/">https://www.greencloaks.co.uk/</a></p>
+<p><strong>Minds Eye Theater<br>
+</strong><a href="https://www.drivethrurpg.com/product/2372/Minds-Eye-Theatre-Core-Rulebook">Minds Eye Theater Core Rules(DriveThruRPG)</a><br>
+</p>
+<p><strong>Attribution:<br>
+</strong>Music from <a href="https://filmmusic.io">https://filmmusic.io</a>&lt;br /&gt;<br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)&lt;br /&gt;<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP09---Of-LARPs--and-Nerds-e4mlhk</link>
+			<guid isPermaLink="false">3746357b-42e4-ffcd-6b3b-89e2fbf5fc9b</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sun, 21 Jul 2019 20:38:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3937268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-21%2F19226048-44100-2-a7e88606447b6.m4a" length="63208649" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Just when you thought it was over, Banjo comes back with another long, presumptive rant. This time it leads to a couple of stories about Live Action Roleplaying (LARPing). Yes, ACTUAL STORIES! It does come at the cost of learning a bit about the nerdiest way to play a game though...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amtgard&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://amtgard.com/&quot;&gt;https://amtgard.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Green Cloaks&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.greencloaks.co.uk/&quot;&gt;https://www.greencloaks.co.uk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Minds Eye Theater&lt;br&gt;
+&lt;/strong&gt;&lt;a href=&quot;https://www.drivethrurpg.com/product/2372/Minds-Eye-Theatre-Core-Rulebook&quot;&gt;Minds Eye Theater Core Rules(DriveThruRPG)&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;br&gt;
+&lt;/strong&gt;Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&amp;lt;br /&amp;gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&amp;lt;br /&amp;gt;&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2564</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP08 - The Journey of Sylas (Part 1)]]></title>
+			<description><![CDATA[<p>Taking a break from ranting, Banjo lets Raspathir have a turn at the microphone with tales about a D&amp;D game he is currently part of. &nbsp;His character, Syalas the Open-Palm monk, joins up with a party of adventurers that have already had a few encounters of their own. &nbsp;Together they go forth, but find trouble along the path to their next destination. &nbsp;Unable to help himself, Banjo does have a SHORT rant about the lack of dragons in the game, thus birthing the term "introductory dragons". &nbsp;To be continued...?</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP08---The-Journey-of-Sylas-Part-1-e4jvqi</link>
+			<guid isPermaLink="false">fcd83d2d-6c1a-540d-daf7-276904173b10</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sun, 21 Jul 2019 01:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3849490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-21%2F19226518-44100-2-8ca1c72855bf5.m4a" length="100409532" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Taking a break from ranting, Banjo lets Raspathir have a turn at the microphone with tales about a D&amp;amp;D game he is currently part of. &amp;nbsp;His character, Syalas the Open-Palm monk, joins up with a party of adventurers that have already had a few encounters of their own. &amp;nbsp;Together they go forth, but find trouble along the path to their next destination. &amp;nbsp;Unable to help himself, Banjo does have a SHORT rant about the lack of dragons in the game, thus birthing the term &quot;introductory dragons&quot;. &amp;nbsp;To be continued...?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4074</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Bonus 01 - Listener Shoutout & Season 2!]]></title>
+			<description><![CDATA[<p>Thanks to everyone that listens, and special thanks to Thalia Q. for the 5-star review on Apple Podcasts!</p>
+<p>Season 2 Coming Soon! (tm)</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/Bonus-01---Listener-Shoutout--Season-2-e4jvso</link>
+			<guid isPermaLink="false">297d5f22-51ec-28cc-759d-0cc7f8c99435</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 13 Jul 2019 02:26:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3849560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18702817-44100-1-973adc826d56e.m4a" length="1001419" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Thanks to everyone that listens, and special thanks to Thalia Q. for the 5-star review on Apple Podcasts!&lt;/p&gt;
+&lt;p&gt;Season 2 Coming Soon! (tm)&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>80</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP07 - Dice, Love, Gaming]]></title>
+			<description><![CDATA[<p>This week Banjo goes on one heck of a rant about his gaming addiction, and tries to warn others against the danger. Thankfully, Raspathir is able to provide a glimmer of hope that newer gamers won't end up in the same trap. &nbsp;There is also a LOT of chat about dice; collecting, laying down rules, and even how to "teach" them what not to do. &nbsp;</p>
+<p><br></p>
+<p><strong>Chessex Dice</strong><br>
+<a href="http://chessex.com/">http://chessex.com/</a></p>
+<p><strong>Mongoose Publishing</strong><br>
+<a href="https://www.mongoosepublishing.com/">https://www.mongoosepublishing.com/</a></p>
+<p><strong>Vajra Enterprises<br>
+</strong><a href="http://www.vajraenterprises.com/">http://www.vajraenterprises.com/</a><br>
+</p>
+<p><strong>Attribution:<br>
+</strong>Music from <a href="https://filmmusic.io">https://filmmusic.io</a>&lt;br /&gt;<br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)&lt;br /&gt;<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP07---Dice--Love--Gaming-e4h92g</link>
+			<guid isPermaLink="false">794152c4-8ab8-d109-51d9-6495a0fac0ef</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 06 Jul 2019 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3760656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-4%2F18158166-44100-2-a4f3c7118210b.m4a" length="60276732" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;This week Banjo goes on one heck of a rant about his gaming addiction, and tries to warn others against the danger. Thankfully, Raspathir is able to provide a glimmer of hope that newer gamers won&apos;t end up in the same trap. &amp;nbsp;There is also a LOT of chat about dice; collecting, laying down rules, and even how to &quot;teach&quot; them what not to do. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chessex Dice&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;http://chessex.com/&quot;&gt;http://chessex.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mongoose Publishing&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.mongoosepublishing.com/&quot;&gt;https://www.mongoosepublishing.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vajra Enterprises&lt;br&gt;
+&lt;/strong&gt;&lt;a href=&quot;http://www.vajraenterprises.com/&quot;&gt;http://www.vajraenterprises.com/&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;br&gt;
+&lt;/strong&gt;Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&amp;lt;br /&amp;gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&amp;lt;br /&amp;gt;&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2445</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP06 - Yet to be Played]]></title>
+			<description><![CDATA[<p>Taking a break from the ever-present burden of knowledge, Banjo decides to talk about game books that he owns but has never played. &nbsp;Raspathir, on the other hand, actually knows quite a bit about the games that he has never played. &nbsp;What follows are links to the various games discussed in this episode :)</p>
+<p><br></p>
+<p><strong>Ryuutama: Natural Fantasy RPG</strong><br>
+<a href="http://kotohi.com/ryuutama/">http://kotohi.com/ryuutama/</a></p>
+<p><strong>Strontium Dog (Mongoose Traveller System)</strong><br>
+<a href="https://rpggeek.com/rpg/4290/strontium-dog">https://rpggeek.com/rpg/4290/strontium-dog</a></p>
+<p><strong>Burning Wheel Fantasy RPG (Gold Revised)</strong><br>
+<a href="https://www.burningwheel.com/burning-wheel-gold-revised/">https://www.burningwheel.com/burning-wheel-gold-revised/</a></p>
+<p><strong>Ironclaw (Anthropomorphic RPG)</strong><br>
+<a href="http://www.sanguinegames.com/ironclaw/">http://www.sanguinegames.com/ironclaw/</a></p>
+<p><strong>HoL Fan Wiki</strong><br>
+<a href="https://whitewolf.fandom.com/wiki/HoL:_Human_Occupied_Landfill">https://whitewolf.fandom.com/wiki/HoL:_Human_Occupied_Landfill</a></p>
+<p><br></p>
+<p><strong>Attribution:</strong></p>
+<p>Music from <a href="https://filmmusic.io">https://filmmusic.io</a><br>
+"As I Figure" by Kevin MacLeod (<a href="https://incompetech.com">https://incompetech.com</a>)<br>
+Licence: CC BY (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>)</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP06---Yet-to-be-Played-e4fncd</link>
+			<guid isPermaLink="false">5f6e647f-0b52-a06d-40ab-f89f191270c6</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 29 Jun 2019 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3709773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-28%2F17807227-44100-2-4a34ed805fdbf.m4a" length="71621130" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Taking a break from the ever-present burden of knowledge, Banjo decides to talk about game books that he owns but has never played. &amp;nbsp;Raspathir, on the other hand, actually knows quite a bit about the games that he has never played. &amp;nbsp;What follows are links to the various games discussed in this episode :)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ryuutama: Natural Fantasy RPG&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;http://kotohi.com/ryuutama/&quot;&gt;http://kotohi.com/ryuutama/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strontium Dog (Mongoose Traveller System)&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://rpggeek.com/rpg/4290/strontium-dog&quot;&gt;https://rpggeek.com/rpg/4290/strontium-dog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Burning Wheel Fantasy RPG (Gold Revised)&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.burningwheel.com/burning-wheel-gold-revised/&quot;&gt;https://www.burningwheel.com/burning-wheel-gold-revised/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ironclaw (Anthropomorphic RPG)&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;http://www.sanguinegames.com/ironclaw/&quot;&gt;http://www.sanguinegames.com/ironclaw/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HoL Fan Wiki&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&quot;https://whitewolf.fandom.com/wiki/HoL:_Human_Occupied_Landfill&quot;&gt;https://whitewolf.fandom.com/wiki/HoL:_Human_Occupied_Landfill&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attribution:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Music from &lt;a href=&quot;https://filmmusic.io&quot;&gt;https://filmmusic.io&lt;/a&gt;&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (&lt;a href=&quot;https://incompetech.com&quot;&gt;https://incompetech.com&lt;/a&gt;)&lt;br&gt;
+Licence: CC BY (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;)&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2906</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP05 - Say Yes to Friend Computer]]></title>
+			<description><![CDATA[<p>Banjo nearly bursts at the seams as he finally gets a chance to gush over Paranoia (the RPG) which takes up nearly half the episode. &nbsp;In the second half, they start a healthy discussion about how to say "yes" to the players, and explore the benefits and consequences of doing so.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP05---Say-Yes-to-Friend-Computer-e4bvdh</link>
+			<guid isPermaLink="false">c18c71d5-e85c-88d5-1994-216aa70bc6cb</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 22 Jun 2019 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3586929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-17%2F17072112-44100-2-b4351d1f0da6d.m4a" length="65824370" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Banjo nearly bursts at the seams as he finally gets a chance to gush over Paranoia (the RPG) which takes up nearly half the episode. &amp;nbsp;In the second half, they start a healthy discussion about how to say &quot;yes&quot; to the players, and explore the benefits and consequences of doing so.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>2670</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP04 - Changeling It Up]]></title>
+			<description><![CDATA[<p>Banjo and Raspathir finally see some very colorful lights as they finish up their World of Darkness series with Changelings in London. &nbsp;The boys also comment on the values of online, open world roleplaying (often referred to as RPG chats). &nbsp;Finally, they are both left wondering what would have happened if the players were allowed to do what they wanted.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP04---Changeling-It-Up-e4a78s</link>
+			<guid isPermaLink="false">8c5bc0a1-2fc3-083c-e0b9-e1479a84b1eb</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Sat, 15 Jun 2019 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3529436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-11%2F16766991-44100-2-0e42abf453cf7.m4a" length="65577316" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Banjo and Raspathir finally see some very colorful lights as they finish up their World of Darkness series with Changelings in London. &amp;nbsp;The boys also comment on the values of online, open world roleplaying (often referred to as RPG chats). &amp;nbsp;Finally, they are both left wondering what would have happened if the players were allowed to do what they wanted.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>2660</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP03 - Anana-what?]]></title>
+			<description><![CDATA[<p>Banjo and Raspathir finally get around to explaining what Ananasi are, including Banjo's first in character encounter with one. &nbsp;Banjo also shares what it was like to be ghouled by a vampire. &nbsp;Finally they wrap up with some tidbits about the other things that creep around in the World of Darkness. &nbsp;Warning: This episode may contain spiders. &nbsp;Lots, and lots, and lots of spiders.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP03---Anana-what-e49s8a</link>
+			<guid isPermaLink="false">91c73382-543f-0384-1eeb-404ca3c27107</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Mon, 10 Jun 2019 02:19:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3518154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-10%2F16710215-44100-2-bd9c01574ad12.m4a" length="76868823" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Banjo and Raspathir finally get around to explaining what Ananasi are, including Banjo&apos;s first in character encounter with one. &amp;nbsp;Banjo also shares what it was like to be ghouled by a vampire. &amp;nbsp;Finally they wrap up with some tidbits about the other things that creep around in the World of Darkness. &amp;nbsp;Warning: This episode may contain spiders. &amp;nbsp;Lots, and lots, and lots of spiders.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3119</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP02 - How Not to be a Werewolf]]></title>
+			<description><![CDATA[<p>Banjo, and Raspathir reminisce about their first time gaming together. &nbsp;The game, Werewolf: The Apocalypse (Revised World of Darkness). &nbsp;Some bad stuff happened, lessons were learned but never applied, and recurring characters would be introduced!</p>
+<p><br></p>
+<p>Attribution:</p>
+<p>Music from https://filmmusic.io:<br>
+"As I Figure" by Kevin MacLeod (https://incompetech.com)<br>
+Licence: CC BY (http://creativecommons.org/licenses/by/4.0/)</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP02---How-Not-to-be-a-Werewolf-e490ua</link>
+			<guid isPermaLink="false">aa686e3b-7ccb-1ba7-3daa-cff80dfd869a</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Thu, 06 Jun 2019 18:58:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3490186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-6%2F16568472-44100-2-843b93a4865e3.m4a" length="73262928" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Banjo, and Raspathir reminisce about their first time gaming together. &amp;nbsp;The game, Werewolf: The Apocalypse (Revised World of Darkness). &amp;nbsp;Some bad stuff happened, lessons were learned but never applied, and recurring characters would be introduced!&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Attribution:&lt;/p&gt;
+&lt;p&gt;Music from https://filmmusic.io:&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (https://incompetech.com)&lt;br&gt;
+Licence: CC BY (http://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>2972</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EP01 - The Beginning]]></title>
+			<description><![CDATA[<p>Welcome to the very first episode of Let the Dice Roll! &nbsp;To get things kicked off Raspathir, and Banjo introduce the podcast, and reminisce about how they got started on tabletop gaming. &nbsp;There is also some brief chatter about Dungeons &amp; Dragons.</p>
+<p><br>
+Attribution:</p>
+<p>Music from https://filmmusic.io:<br>
+"As I Figure" by Kevin MacLeod (https://incompetech.com)<br>
+Licence: CC BY (http://creativecommons.org/licenses/by/4.0/)</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: <a href="https://anchor.fm/letthediceroll/support" rel="payment">https://anchor.fm/letthediceroll/support</a>]]></description>
+			<link>https://anchor.fm/letthediceroll/episodes/EP01---The-Beginning-e490rf</link>
+			<guid isPermaLink="false">f6dedfc2-119f-0e0c-b8f0-1df37f2f7199</guid>
+			<dc:creator><![CDATA[Banjo Fox]]></dc:creator>
+			<pubDate>Thu, 06 Jun 2019 18:56:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/bea9efc/podcast/play/3490095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-6%2F16568460-44100-2-88e7c68426cdc.m4a" length="82260921" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Welcome to the very first episode of Let the Dice Roll! &amp;nbsp;To get things kicked off Raspathir, and Banjo introduce the podcast, and reminisce about how they got started on tabletop gaming. &amp;nbsp;There is also some brief chatter about Dungeons &amp;amp; Dragons.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Attribution:&lt;/p&gt;
+&lt;p&gt;Music from https://filmmusic.io:&lt;br&gt;
+&quot;As I Figure&quot; by Kevin MacLeod (https://incompetech.com)&lt;br&gt;
+Licence: CC BY (http://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/letthediceroll/message
+Support this podcast: &lt;a href=&quot;https://anchor.fm/letthediceroll/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/letthediceroll/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>3338</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1899255/1899255-1559846912638-30ac0e2ecbe59.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
 </rss>
